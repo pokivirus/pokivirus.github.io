@@ -1,3 +1,3 @@
 [     
-      {"id":1, "name": "Ed Sheeran", "songs": [1: "Perfect", "price": 100]}
+      {"id":1, "name": "Ed Sheeran", "songs": [{"1": "Perfect", "price": 100}, {"2": "Happier", "price":200}]}
 ]
