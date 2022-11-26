@@ -1,3 +1,4 @@
 [     
       {"id":1, "name": "Ed Sheeran", "songs": [{"1": "Perfect", "price": 100}, {"2": "Happier", "price":200}]}
+      {"id":2, "name": "Ricky Montgomery", "songs": [{"1": "Mr Loverman", "price": 100}, {"2": "This December", "price":200}]}
 ]
