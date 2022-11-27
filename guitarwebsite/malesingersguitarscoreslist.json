@@ -1,6 +1,6 @@
 [     
       {"id":1, "name": "Ed Sheeran", "image":"Ed Sheeran.png", 
-       "songs": [{"songnumber": 1, "song1": "Perfect", "price": 100}, {"songnumber": 2, "song2": "Happier", "price":200}]},
+       "songs": [{"songnumber": 1, "song": "Perfect", "price": 100}, {"songnumber": 2, "song": "Happier", "price":200}]},
       {"id":2, "name": "Ricky Montgomery", "image":"Ricky Montgomery.jpg", 
-       "songs": [{"songnumber": 1, "song1": "Mr Loverman", "price": 100}, {"songnumber": 2, "song2": "This December", "price":200}]}
+       "songs": [{"songnumber": 1, "song": "Mr Loverman", "price": 100}, {"songnumber": 2, "song": "This December", "price":200}]}
 ]
